@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="AssignmentOperator" Path="AssignmentOperator/AssignmentOperator.project" Active="No"/>
+  <Project Name="ArthematicOperator" Path="ArthematicOperator/ArthematicOperator.project" Active="No"/>
+  <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
+  <Project Name="MileToKM" Path="MileToKM/MileToKM.project" Active="No"/>
+  <Project Name="IncrementOperator" Path="IncrementDecrementOperator/IncrementDecrementOperator.project" Active="No"/>
+  <Project Name="DecrementOperator" Path="DecrementOperator/DecrementOperator.project" Active="No"/>
+  <Project Name="ExpressionAndConversion" Path="ExpressionAndConversion/ExpressionAndConversion.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="AssignmentOperator" ConfigName="Debug"/>
+      <Project Name="ArthematicOperator" ConfigName="Debug"/>
+      <Project Name="Euros" ConfigName="Debug"/>
+      <Project Name="MileToKM" ConfigName="Debug"/>
+      <Project Name="IncrementOperator" ConfigName="Debug"/>
+      <Project Name="DecrementOperator" ConfigName="Debug"/>
+      <Project Name="ExpressionAndConversion" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="AssignmentOperator" ConfigName="Release"/>
+      <Project Name="ArthematicOperator" ConfigName="Release"/>
+      <Project Name="Euros" ConfigName="Release"/>
+      <Project Name="MileToKM" ConfigName="Release"/>
+      <Project Name="IncrementOperator" ConfigName="Release"/>
+      <Project Name="DecrementOperator" ConfigName="Release"/>
+      <Project Name="ExpressionAndConversion" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
